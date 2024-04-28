@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d91334ce873344d4a79fc5ecdb423f5f, type: 3}
-  m_Name: Character - MumuGerasimov
+  m_Name: Character - Beanstalk Jack
   m_EditorClassIdentifier: 
-  <CharacterType>k__BackingField: 21
-  <Name>k__BackingField: "\u0413\u0435\u0440\u0430\u0441\u0438\u043C"
-  <Avatar>k__BackingField: {fileID: 21300000, guid: 96e86e2c3012ad34b978db59f7bd0f05, type: 3}
+  <CharacterType>k__BackingField: 31
+  <Name>k__BackingField: "\u0414\u0436\u0435\u043A"
+  <Avatar>k__BackingField: {fileID: 21300000, guid: 972495727aa417e4fad1d4c5c45004fe, type: 3}
